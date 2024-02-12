@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "proxy": "http://localhost:4000",
+=======
+  "proxy": "https://workout-buddy-backend-indol.vercel.app",
+>>>>>>> b618b9b1de67f61c06489aad17e584bc962b89d6
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
